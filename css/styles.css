@@ -1,0 +1,95 @@
+.top-cloud {
+  position: relative;
+  left: 200px;
+  margin-top: 50px;
+}
+.top-container {
+  background-color: #e4f9f5;
+  padding-top: 50px;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  height: 100px;
+  margin-top: 50px;
+  padding: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.footer-link {
+  margin: 30px;
+}
+.profile-photo {
+  margin-top: 50px;
+  width: 250px;
+  height: 250px;
+  border-radius: 125px;
+}
+.skill {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.copyrights {
+  color: #EAF6F6;
+  margin-top: 50px;
+}
+.chess {
+  width: 25%;
+  float: right;
+  margin-left : 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+a {
+  color:#11999E;
+}
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif ;
+  text-align: center;
+}
+h1 {
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive ;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif ;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+}
+hr {
+  border-style: dotted none none;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  width: 5%;
+}
+.btn-hldr .main-btn {
+    font-size: .8em;
+    text-align: center;
+    display: block;
+    position: relative;
+    background: #45b29a;
+    padding: .75em 2em .75em 3.5em;
+    color: #1b7f69;
+    text-decoration: none;
+    margin: 1.5em 0 0;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    font-weight: 400;
+    border: 0;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    text-transform: uppercase;
+}
